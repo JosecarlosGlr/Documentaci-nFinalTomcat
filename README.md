@@ -83,3 +83,9 @@ Como fase final, se ha migrado la infraestructura a un modelo basado en contened
 He configurado Tomcat en un contenedor Docker para facilitar el despliegue y la portabilidad de mis aplicaciones. Esto me ha permitido comprobar cómo el aislamiento de contenedores simplifica la gestión frente a una instalación tradicional, permitiendo levantar entornos idénticos en cuestión de segundos mediante el comando `docker pull tomcat` y el montaje de volúmenes para las aplicaciones.
 
 ---
+
+## 8. Conclusión Final
+
+Este proyecto me ha permitido profundizar en la administración de servidores de aplicaciones, pasando desde una instalación básica hasta configuraciones avanzadas de seguridad y rendimiento. He comprendido la importancia de integrar Tomcat con un servidor web como Apache para mejorar la estabilidad y la seguridad mediante el uso de proxies inversos y certificados SSL.
+
+Además, la transición hacia el despliegue con Docker me ha demostrado que la contenedorización es una herramienta clave en el desarrollo actual, ya que facilita enormemente la portabilidad y el escalado de aplicaciones. En definitiva, he adquirido una visión completa del ciclo de vida de una aplicación Java, desde su despliegue y gestión de usuarios hasta su optimización en entornos de producción.
