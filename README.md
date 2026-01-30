@@ -42,7 +42,7 @@ Se habilitaron los módulos `proxy` y `proxy_http` y se añadieron las directiva
 ProxyPreserveHost On
 ProxyPass / http://localhost:8080/
 ProxyPassReverse / http://localhost:8080/
-``
+```
 ---
 
 ## 4. Seguridad Aplicada
